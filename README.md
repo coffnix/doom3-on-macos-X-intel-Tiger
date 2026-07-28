@@ -19,7 +19,7 @@ This launcher **does not remove the game's copy protection** or modify any game 
 - Mac OS X 10.4 Tiger (Intel)
 - Apple GDB
 - Original **Doom 3 for Macintosh** DVD image mounted
-- **Doom 3 1.3.1 Rev A** update installed
+- **Doom 3 1.3.1 Rev A** update installed (https://www.moddb.com/downloads/doom-3-131-macos-intel-powerpc)
 
 ## Getting the game
 
