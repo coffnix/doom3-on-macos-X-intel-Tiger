@@ -81,6 +81,16 @@ if (!checkDVD()) {
 
 No executable files are modified.
 
+## Automatic mounting script
+
+An additional script named **"start_automount.sh"** is included.
+
+Copy **"start_automount.sh"** to the **"/Doom 3"** directory.
+
+Create the directory **"/Doom 3/doom 3 macos x intel iso/"** if it does not already exist, and place the original DVD image **"Doom 3 for Macintosh DVD.toast"** inside it.
+
+When executed, **"start_automount.sh"** will automatically mount **"Doom 3 for Macintosh DVD.toast"** before launching the game and will automatically unmount it after Doom 3 exits.
+
 ## Legal
 
 This project does **not** contain:
