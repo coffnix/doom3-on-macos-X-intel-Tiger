@@ -43,6 +43,21 @@ Install the **doom3mac1.3.1reva.dmg** update, which contains the Universal Binar
 
 You will need to locate this update yourself.
 
+## Mount the DVD image
+
+Before running `start.sh`, mount the original Doom 3 DVD image:
+
+```bash
+hdiutil attach "Doom 3 for Macintosh DVD.toast"
+```
+
+After the image is mounted, start the launcher:
+
+```bash
+chmod +x start.sh
+./start.sh
+```
+
 ## Usage
 
 ```bash
